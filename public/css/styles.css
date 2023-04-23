@@ -1,0 +1,32 @@
+body {
+    background-color: #F2FBFF;
+    text-align: center !important;
+    color: #04bebe;
+}
+
+h1 {
+    text-align: center;
+    font-size: 6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    border: 1px solid #5bd6d6 ;
+}
+
+.testimonial-image {
+    border-radius: 50%;
+    width: 10%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#testimonials {
+    margin-top: 60px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #04bebe;
+    border-radius: 20%;
+}
